@@ -10,7 +10,7 @@
         v-for="(todo, index) in todos"
         :key="index"
         :todo="todo"
-        @deleteTodo="deleteTodo(index)"
+        @deleteTodo="deleteTodo(index)" 
         @editTodo="editTodo(index)"
         @saveTodo="saveTodo(index)"
       />
