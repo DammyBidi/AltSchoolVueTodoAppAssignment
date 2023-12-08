@@ -86,7 +86,7 @@ export default {
 }
 
 .btn-delete {
-  background-color: rgb(51, 96, 193);
+  background-color: white;
   color: white;
 }
 </style>
